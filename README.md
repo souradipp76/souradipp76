@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-souradip.iitg@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:souradip.iitg@gmail.com)](mailto:souradip.iitg@gmail.com) 
 
 
-- 🔭 I’m currently working at [@adobe](https://github.com/adobe) as a Software Developer in their Business Platform Engineering Group under Adobe E-Commerce.
+- 🔭 I’m currently pursuing MS in Electrical and Computer Engineering at Purdue University
+- 👨‍💻 Previously I worked at [@adobe](https://github.com/adobe) as a Software Developer in the Business Platform Engineering Group under Adobe E-Commerce.
 - 🌱 I’m currently learning about Reinforcement Learning and different areas of Deep Learning.
 - 🎯 Portfolio website: [Portfolio](https://souradipp76.github.io/)
 - 💬 Ask me about anything, I am happy to help :smile:
