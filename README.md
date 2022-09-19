@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently pursuing MS in Electrical and Computer Engineering at Purdue University
 - 👨‍💻 Previously I worked at [@adobe](https://github.com/adobe) as a Software Developer in the Business Platform Engineering Group under Adobe E-Commerce.
 - 🌱 I’m currently learning about Reinforcement Learning and different areas of Deep Learning.
-- 🎯 Portfolio website: [Portfolio](https://souradipp76.github.io/)
+- 🎯 Personal website: Check out my personal page [here](https://souradipp76.github.io/)
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 
