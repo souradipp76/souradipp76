@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ### :zap: Github Stats
 <p>
     <a href="https://gitstats.me/souradipp76" target="_blank"> 
-        <img src="https://github-readme-stats.vercel.app/api?username=souradipp76&show_icons=true&hi&theme=dark&count_private=true&include_all_commits=true">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=souradipp76&show_icons=true&hi&theme=dark&count_private=true&include_all_commits=true">
     </a>
 </p>
 
