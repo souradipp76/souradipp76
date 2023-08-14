@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-souradip.iitg@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:souradip.iitg@gmail.com)](mailto:souradip.iitg@gmail.com) 
 
 
-- 🔭 I’m currently pursuing MS in Electrical and Computer Engineering at Purdue University
-- 👨‍💻 Previously I worked at [@adobe](https://github.com/adobe) as a Software Developer in the Business Platform Engineering Group under Adobe E-Commerce.
+- 🔭 I’m currently pursuing M.S. in Electrical and Computer Engineering at Purdue University
+- 👨‍💻 Previously I worked at [@slb](https://github.com/Schlumberger) as a Software Engineering Intern and also at [@adobe](https://github.com/adobe) as a Software Development Engineer in Adobe's Commerce Platform team.
 - 🌱 I’m currently learning about Reinforcement Learning and different areas of Deep Learning.
 - 🎯 Personal website: Check out my personal page [here](https://souradipp76.github.io/)
 - 💬 Ask me about anything, I am happy to help :smile:
@@ -29,13 +29,14 @@ Here are some ideas to get you started:
 
 
 ### :zap: Github Stats
-<p>
-    <a href="https://gitstats.me/souradipp76" target="_blank"> 
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=souradipp76&show_icons=true&hi&theme=dark&count_private=true&include_all_commits=true">
-    </a>
-</p>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varadbhogayata&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Souradip's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=souradipp76&show_icons=true&hi&theme=dark&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=souradipp76&theme=dark)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souradipp76&theme=dark&layout=compact&hide=Euphoria)
+
+
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
