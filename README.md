@@ -32,9 +32,9 @@ Here are some ideas to get you started:
 
 [![Souradip's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=souradipp76&show_icons=true&hi&theme=dark&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=souradipp76&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-nine-rose.vercel.app?user=souradipp76&theme=dark)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souradipp76&theme=dark&layout=compact&hide=Euphoria)
+![Top Langs](https://github-readme-stats-ecru-delta-62.vercel.app/api/top-langs?username=souradipp76&theme=dark&layout=compact&hide=Euphoria)
 
 
 <div align="center">
