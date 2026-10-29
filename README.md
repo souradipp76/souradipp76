@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-souradip.iitg@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:souradip.iitg@gmail.com)](mailto:souradip.iitg@gmail.com) 
 
 
-- 🔭 I’m currently working as a Software Engineer at [@slb](https://github.com/Schlumberger) in the Industrial IoT team.
-- 👨‍💻 Previously I did my masters in Electrical and Computer Engineering at Purdue University and also worked at [@adobe](https://github.com/adobe) as a Software Development Engineer in Adobe's Commerce Platform team.
+- 🔭 I’m currently working as a Software Engineer at [@apple](https://github.com/apple) in the Wireless Compliance team.
+- 👨‍💻 Previously I did my masters in Electrical and Computer Engineering at Purdue University and also worked as a Software Engineer at [@slb](https://github.com/Schlumberger) in the Industrial IoT team and at [@adobe](https://github.com/adobe) in Adobe's Commerce Platform team.
 - 🌱 I’m currently learning about Reinforcement Learning and different areas of Deep Learning and Generative AI.
 - 🎯 Personal website: Check out my personal page [here](https://souradipp76.github.io/)
 - 💬 Ask me about anything, I am happy to help :smile:
