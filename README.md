@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ### :zap: Github Stats
 
-[![Souradip's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=souradipp76&show_icons=true&hi&theme=dark&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Souradip's GitHub stats](https://github-readme-stats-ecru-delta-62.vercel.app/api?username=souradipp76&show_icons=true&hi&theme=dark&count_private=true&include_all_commits=true)](https://github.com/souradipp76/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats-nine-rose.vercel.app?user=souradipp76&theme=dark)](https://git.io/streak-stats)
 
